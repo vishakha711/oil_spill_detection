@@ -1,0 +1,11 @@
+data/
+runs/
+__pycache__/
+*.pyc 
+
+# Model weights
+*.pt
+*.onnx
+
+# Temporary files
+temp_*

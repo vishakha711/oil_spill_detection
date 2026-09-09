@@ -1,0 +1,5 @@
+path: C:/oilspill_project/data/yolo_dataset
+train: images/train
+val: images/val
+names:
+  0: oil_spill
